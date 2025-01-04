@@ -1,5 +1,5 @@
-#ifndef MENU_H
-#define MENU_H
+#ifndef GAMEMENU_H
+#define GAMEMENU_H
 
 #include "game.h"
 #include "file.h"

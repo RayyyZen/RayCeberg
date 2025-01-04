@@ -1,0 +1,4 @@
+*.bin
+#Ignores the .bin files
+
+RayCeberg

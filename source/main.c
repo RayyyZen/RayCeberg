@@ -1,6 +1,4 @@
-#include "game.h"
-#include "file.h"
-#include "menu.h"
+#include "gamemenu.h"
 
 int main(){
     setlocale(LC_ALL, "");
