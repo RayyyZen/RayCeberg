@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**RayCeberg** is a game I created in C using the `ncurses` library during my first year of preparatory engineering studies to get familiar with the library and programming in C. The game features a grid of icebergs with different types of fish, and the players are randomly placed on icebergs containing only one normal fish. The players wait for their turns and can move from iceberg to iceberg to collect fishes and increase their score. The game ends when all the players can not move anymore.
+**RayCeberg** is a game I created in C using the `ncurses` library during my first year of preparatory engineering studies, and updated during my second year to get familiar with the library and programming in C. The game features a grid of icebergs with different types of fish, and the players are randomly placed on icebergs containing only one normal fish. The players wait for their turns and can move from iceberg to iceberg to collect fishes and increase their score. The game ends when all the players can not move anymore.
 
 ## Prerequisites
 
